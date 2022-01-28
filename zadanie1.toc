@@ -1,0 +1,5 @@
+\contentsline {section}{\numberline {1}Część Pierwsza}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Część Druga Części Pierwszej}{4}{}%
+\contentsline {section}{\numberline {2}Część Druga}{5}{}%
+\contentsline {subsection}{\numberline {2.1}Część Druga Części Drugiej}{6}{}%
+\contentsline {section}{\numberline {3}Część Czwarta aka Matematyka}{7}{}%
